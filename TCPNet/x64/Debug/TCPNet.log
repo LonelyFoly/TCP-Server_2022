@@ -1,0 +1,9 @@
+﻿  IPEndpoint.cpp
+  Network.cpp
+  Packet.cpp
+  PacketManager.cpp
+  Protocol.cpp
+  Server.cpp
+  Socket.cpp
+  TCPConnection.cpp
+  TCPNet.vcxproj -> D:\Хранилище\Всячина\Флешка\TCP-NonblockingExample\x64\Debug\TCPNet.lib
